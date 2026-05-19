@@ -1,0 +1,26 @@
+VoidImage Custom License
+
+Copyright (c) 2026 voidimage
+
+Permission is granted to any person to use, copy, and run this software
+("VoidImage") for personal, non-commercial use only.
+
+You are allowed to:
+- Use this software for personal projects
+- Modify the source code for personal or educational purposes
+- Learn from the code and build improvements
+
+You are NOT allowed to:
+- Sell this software or any modified version of it
+- Re-upload or redistribute this software as a direct copy or duplicate
+- Publish the software under the same name "voidimage" or any confusingly similar name
+- Claim original authorship of this software
+
+You MAY distribute modified versions ONLY if:
+- You significantly improve or extend functionality
+- You clearly rename the project
+- You clearly state that it is based on VoidImage
+- You do NOT present it as the original VoidImage project
+
+This software is provided "as is", without warranty of any kind.
+The author is not responsible for any damages or issues caused by its use.

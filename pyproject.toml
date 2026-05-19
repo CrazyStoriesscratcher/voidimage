@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voidimage"
+version = "0.1.1"
+description = "Tiny image drawing engine"
+authors = [{name="Voidbuild"}]
+dependencies = ["pygame"]
+readme = "README.md"
